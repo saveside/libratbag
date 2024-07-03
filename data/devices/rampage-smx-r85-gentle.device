@@ -1,0 +1,12 @@
+[Device]
+Name=RAMPAGE SMX R85 Gentle Mouse
+DeviceMatch=usb:1bcf:08b8
+DeviceType=mouse
+Driver=rampage
+
+[Driver/asus]
+Profiles=3
+Buttons=8
+Leds=2
+Dpis=6
+DpiRange=800:6400@800
