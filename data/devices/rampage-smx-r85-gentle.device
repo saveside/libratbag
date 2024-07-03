@@ -5,7 +5,7 @@ DeviceType=mouse
 Driver=rampage
 
 [Driver/asus]
-Profiles=3
+Profiles=2
 Buttons=8
 Leds=2
 Dpis=6
